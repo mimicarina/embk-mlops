@@ -1,5 +1,6 @@
 # MLOps Lab
 
+This lab is a condensed version of [these](https://github.com/awslabs/amazon-sagemaker-mlops-workshop) workshop instructions. 
 
 In this lab, we will create and experiment an end-to-end ML Pipeline. 
 This ML pipeline is supported by an automated infrastructure for training, testing, deploying and integrating ML Models. 
